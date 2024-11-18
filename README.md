@@ -1,1 +1,1 @@
-# -postgreSQL
+Placeholder for integration testing task
